@@ -1,2 +1,2 @@
 # HubotOnNode
-We receive hub's hear in node.js
+We receive hubot hear in node.js
